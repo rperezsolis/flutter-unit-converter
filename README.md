@@ -1,8 +1,5 @@
-# hello_rectangle
+# flutter unit converter
 
-My first Flutter application.
+This is a unit converter app. You can convert several units as length, area, volume, mass, time, digital storage units, energy and currency.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+For help getting started with Flutter, visit the official documentation at https://flutter.io/.
